@@ -32,7 +32,7 @@ A clean, simple To-Do List web app built with vanilla **HTML, CSS, and JavaScrip
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Teja-1410/todo-app.git
    ```
 2. Open `index.html` in your browser — that's it, no installation needed.
 
