@@ -2,7 +2,7 @@
 
 A clean, simple To-Do List web app built with vanilla **HTML, CSS, and JavaScript** — no frameworks, no build tools. Add tasks, check them off, delete them, and save your list to the browser's local storage.
 
-🔗 **Live Demo:** [Add your GitHub Pages link here after deploying]
+🔗 **Live Demo:** [https://teja-1410.github.io/todo-app/]
 
 ## ✨ Features
 
